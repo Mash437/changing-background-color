@@ -1,0 +1,39 @@
+body{
+    margin: auto;
+}
+
+h1{
+    text-align: center;
+}
+
+.buttons{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#CRed{
+    width: 155px;
+    height: 50px;
+}
+
+#CBlue{
+   width: 155px;
+   height: 50px;
+}
+
+#CGreen{
+    width: 155px;
+    height: 50px;
+}
+
+#CYellow{
+    width: 155px;
+    height: 50px;
+}
+
+#CReset{
+    width: 155px;
+    height: 50px;
+}
